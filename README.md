@@ -82,66 +82,24 @@ If you participate in CTFs or bug bounty programs, showcase this experience:
 	•	Hack The Box: Completed 20+ machines with 5 “Insane” difficulty
 	•	Bug Bounties: Discovered vulnerabilities in major platforms like [Company Name]
 
-5. Work Experience
 
-Include your professional experience, focusing on cybersecurity roles:
 
-Job Title: [Position]
+#### Education
 
-Company: [Company Name]
-Duration: [Month/Year – Month/Year]
-	•	Responsibilities:
-	•	Conducted regular security audits and vulnerability assessments
-	•	Monitored SIEM tools for suspicious activity and conducted incident investigations
-	•	Developed and implemented security policies and procedures
-	•	Collaborated with the IT team to improve the security posture of the organization
 
-Example:
+	•	Degree: Bachelor of Engineering in Mechanical Engineering
+Institution: University of Ilorin
 
-Job Title: Information Security Analyst
-Company: Tech Solutions Inc.
-Duration: January 2021 – Present
-	•	Implemented a SIEM solution to monitor and log suspicious activities, improving incident response time by 30%
-	•	Performed security audits on 50+ applications, identifying critical vulnerabilities and recommending fixes
-	•	Led a team to conduct regular penetration tests, resulting in a 40% reduction in exploitable vulnerabilities
+Year of Graduation: 2022
 
-6. Blog / Articles / Write-ups
 
-If you write about cybersecurity topics, include links to your blog posts, articles, or technical write-ups:
-	•	How to Secure Your Web Application – A step-by-step guide on implementing best practices for web application security.
-	•	CTF Write-up: Hack The Box - Machine XYZ – Detailed analysis and solution for a Hack The Box challenge.
 
-7. Education
+##### Download Resume
 
-Include your academic background:
-	•	Degree: Bachelor of Science in Computer Science
-Institution: [University Name]
-Year of Graduation: [Year]
-	•	Additional Courses/Training:
-	•	Offensive Security Web Expert (OSWE) - Offensive Security
-	•	Introduction to Cybersecurity - Coursera
-	•	Network Security Fundamentals - Udemy
-
-8. Contact
-
-Make it easy for potential employers or clients to get in touch:
-	•	Email: [your.email@example.com]
-	•	LinkedIn: [linkedin.com/in/yourprofile]
-	•	GitHub: [github.com/yourprofile]
-
-9. Download Resume
-
-Provide a downloadable link to your resume:
 	•	Download Resume (PDF)
 
-10. Footer
+###### Footer
 
-Include a footer with your social media links and a copyright notice:
 	•	LinkedIn | GitHub | Twitter
-	•	© [Your Name] [Year]. All rights reserved.
+	•	© Kvngpharaoh 2024. All rights reserved.
 
-Additional Tips:
-
-	1.	Consistency: Use a consistent design and color scheme across the portfolio.
-	2.	Proofread: Check for typos and errors.
-	3.	Keep it Updated: Regularly update your portfolio with new projects, certifications, and skills.
